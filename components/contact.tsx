@@ -1,32 +1,26 @@
-export default function Contact() {
-  return (
-    <section
-      id="contact"
-      className="py-20 text-center"
-    >
-      <h2 className="text-4xl font-bold mb-6">
-        Contact
-      </h2>
+<div className="flex justify-center gap-4 mt-6">
+  <a
+    href="mailto:yesayaroland02@gmail.com"
+    className="px-6 py-3 border rounded-lg"
+  >
+    📧 Email
+  </a>
 
-      <div className="flex flex-col gap-3">
-        <a
-          href="https://github.com/yesayaroland02-web"
-          target="_blank"
-        >
-          GitHub
-        </a>
+  <a
+    href="https://github.com/yesayaroland02-web"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-6 py-3 border rounded-lg"
+  >
+    💻 GitHub
+  </a>
 
-        <a href="mailto:yesayaroland02@gmail.com">
-          Email
-        </a>
-
-        <a
-          href="https://www.linkedin.com/in/yesaya-roland-steven-51286b335/"
-          target="_blank"
-        >
-          LinkedIn
-        </a>
-      </div>
-    </section>
-  );
-}
+  <a
+    href="https://www.linkedin.com/in/yesaya-roland-steven-51286b335/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-6 py-3 border rounded-lg"
+  >
+    💼 LinkedIn
+  </a>
+</div>
