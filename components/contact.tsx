@@ -16,7 +16,7 @@ export default function Contact() {
           GitHub
         </a>
 
-        <a href="mailto:emailkamu@gmail.com">
+        <a href="mailto:yesayaroland02@gmail.com">
           Email
         </a>
 
