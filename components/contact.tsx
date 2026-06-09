@@ -21,7 +21,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/yesaya-roland-steven-51286b335/"
           target="_blank"
         >
           LinkedIn
